@@ -16,7 +16,6 @@ REQUIREMENTS = [
     'pillow',
     'django-filer',
     'django-sizefield',
-    'openpyxl',
     'six>=1.0',
 ]
 
